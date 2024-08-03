@@ -9,3 +9,13 @@ Merhaba! I'm Rico Jia (a.k.a. Rico), a robotics technology a knack for robotics 
 Currently, I work as a robotics software engineer, focusing on robotics software infrastructure development, navigation, and machine learning for robotics. Previously, I was a software engineer at Northwestern University's Shirley Ryan AbilityLab and Accel Robotics, and I also served as a project lead at Diligent Robotics.
 
 I live in Houston and am the captain and forward of a local soccer team. In, I am learning Turkish and Spanish. My physical activities are primarily based in Texas, USA. In the future, I aspire to be a digital nomad. My virtual presence can be found on [Github](https://github.com/RicoJia).
+
+<p align="center">
+    <figure>
+        <img src="https://github.com/user-attachments/assets/940f009f-d17f-438b-8d05-b540c5e18516" height="400" alt=""/>
+        <figcaption> I like the turf area under my apartment and practice soccer with dogs. Dogs are fast ;) </figcaption>
+    </figure>
+</p>
+
+
+
