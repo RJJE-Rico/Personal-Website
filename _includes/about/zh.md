@@ -17,5 +17,3 @@ I live in Houston and am the captain and forward of a local soccer team. In, I a
     </figure>
 </p>
 
-
-
