@@ -6,7 +6,7 @@ I live in Houston, Texas. In my spare time, I am the captain and forward of a lo
 
 <p align="center">
     <figure>
-        <img src="https://github.com/user-attachments/assets/940f009f-d17f-438b-8d05-b540c5e18516" height="400" alt=""/>
+        <img src="https://github.com/user-attachments/assets/940f009f-d17f-438b-8d05-b540c5e18516" height="200" alt=""/>
         <figcaption> I like the turf area under my apartment and practice soccer with dogs. Dogs are fast ;) </figcaption>
     </figure>
 </p>
