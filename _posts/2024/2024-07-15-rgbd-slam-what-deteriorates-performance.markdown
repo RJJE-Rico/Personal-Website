@@ -6,8 +6,11 @@ subtitle: Lessons Learned From My RGBD SLAM Project. Updates Come In Anytime
 header-img: "img/post-bg-unix-linux.jpg"
 tags:
     - rgbd slam
+    - deep learning
 comments: true
 ---
+
+> “Yeah It's on. ”
 
 ## Motion Blur 
 
