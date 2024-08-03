@@ -2,7 +2,10 @@
 layout: post
 title: RGBD SLAM - What Deteriorates Its Performance
 date: '2024-07-15 13:19'
-excerpt: Lessons Learned From My RGBD SLAM Project 
+subtitle: Lessons Learned From My RGBD SLAM Project. Updates Come In Anytime
+header-img: "img/post-bg-unix-linux.jpg"
+tags:
+    - rgbd slam
 comments: true
 ---
 
