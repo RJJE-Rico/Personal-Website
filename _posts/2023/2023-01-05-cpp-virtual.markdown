@@ -4,6 +4,8 @@ title: C++ - Virtual Functions and Virtual Inheritance
 date: '2023-01-05 13:19'
 subtitle: Virtual is virtually complicated. Dynamic Dispatch, Dreadful Diamond Derivative (DDD) Problem ...
 comments: true
+tags:
+    - C++
 ---
 
 ## Introduction

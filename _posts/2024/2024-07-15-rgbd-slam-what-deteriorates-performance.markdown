@@ -5,8 +5,8 @@ date: '2024-07-15 13:19'
 subtitle: Lessons Learned From My RGBD SLAM Project. Updates Come In Anytime
 header-img: "img/post-bg-unix-linux.jpg"
 tags:
-    - rgbd slam
-    - deep learning
+    - RGBD Slam
+    - Deep Learning
 comments: true
 ---
 

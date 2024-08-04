@@ -4,6 +4,8 @@ title: Math - Eigen Value, Eigen Vector, and Eigen Value Decomposition
 date: '2017-01-15 13:19'
 subtitle: What is Eigen Value Decomposition?
 comments: true
+tags:
+    - Math
 ---
 
 ## Eigen Values and Eigen Vectors

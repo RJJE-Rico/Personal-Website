@@ -4,6 +4,8 @@ title: Linux - Udev Rules And Systemd Services
 date: '2018-01-07 13:19'
 subtitle: Udev Rules Systemd Services
 comments: true
+tags:
+    - Linux
 ---
 
 ## Udev

@@ -4,6 +4,8 @@ title: Math - Gram Schmidt Orthogonolization And QR Decomposition
 date: '2017-01-05 13:19'
 subtitle: Super useful in finding forming an orthogonal vector basis, e.g., Singular Value Decomposition
 comments: true
+tags:
+    - Math
 ---
 
 ## Background Knowledge

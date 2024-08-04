@@ -4,6 +4,8 @@ title: Linux - X Window System
 date: '2018-01-05 13:19'
 subtitle: X Window System
 comments: true
+tags:
+    - Linux
 ---
 
 ## What is X?

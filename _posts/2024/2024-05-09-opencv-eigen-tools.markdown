@@ -4,6 +4,8 @@ title: OpenCV and Eigen Tools
 date: '2024-05-09 13:19'
 subtitle: A Running List of Opencv and Eigen Tools
 comments: true
+tags:
+    - OpenCV
 ---
 
 ## OpenCV Image Processing

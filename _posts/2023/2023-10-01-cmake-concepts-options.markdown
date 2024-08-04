@@ -4,6 +4,8 @@ title: CMake - Concepts and Options
 date: '2023-10-01 13:19'
 subtitle: A Running List of CMake Thingamagigs
 comments: true
+tags:
+    - C++
 ---
 
 ## Concepts

@@ -4,4 +4,6 @@ title: My Journey Into CUDA
 date: '2023-08-15 13:19'
 subtitle: Various things about CUDA that I learned...
 comments: true
+tags:
+    - CUDA
 ---

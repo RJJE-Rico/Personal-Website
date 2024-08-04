@@ -4,6 +4,8 @@ title: C++ - BLAS and LAPACK
 date: '2023-01-26 13:19'
 subtitle: Scientific Computing Libraries
 comments: true
+tags:
+    - C++
 ---
 
 ## Article: BLAS ("Basic Linear Algebra Subalgorithms")

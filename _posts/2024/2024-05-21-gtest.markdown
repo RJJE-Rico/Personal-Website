@@ -4,6 +4,8 @@ title: Writing GTest for ROS
 date: '2024-05-21 13:19'
 subtitle: Test! Test! Test!
 comments: true
+tags:
+    - C++
 ---
 
 ## Concepts
