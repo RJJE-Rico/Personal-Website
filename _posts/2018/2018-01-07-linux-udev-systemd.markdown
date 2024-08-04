@@ -50,6 +50,15 @@ KERNEL=="iio*", ATTRS{idVendor}=="8086", ATTRS{idProduct}=="0ad5", MODE:="0777",
 DRIVER=="hid_sensor_custom", ATTRS{idVendor}=="8086", ATTRS{idProduct}=="0ad5", RUN+="/bin/sh -c 'chmod -R 0777 /sys/%p && chmod 0777 /dev/%k'"
 ```
 
+- To check vendor ID, product IDs
+
+```bash
+lsusb
+# see Bus 004 Device 003: ID 8086:0ad3 Intel Corp. Intel(R) RealSense(TM) Depth Camera 415
+    # vendor ID: 8086, Product ID: 0ad3
+# Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+```
+
 ## Services
 A `systemd` service in unix has:
 
