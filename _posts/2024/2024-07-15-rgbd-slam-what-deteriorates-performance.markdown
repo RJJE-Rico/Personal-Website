@@ -10,7 +10,7 @@ tags:
 comments: true
 ---
 
-> “Yeah It's on. ”
+> “Yeah It's on. But wait, it doesn't look good.”
 
 ## Motion Blur 
 

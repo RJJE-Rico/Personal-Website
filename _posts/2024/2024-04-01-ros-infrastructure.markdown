@@ -2,7 +2,7 @@
 layout: post
 title: ROS Infrastructure Notes
 date: '2024-04-01 13:19'
-excerpt: Another Running List of ROS Infrastructure I found Useful - actions
+subtitle: Another Running List of ROS Infrastructure I found Useful - actions
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: RGBD SLAM Bundle Adjustment Part 2
 date: '2024-07-12 13:19'
-excerpt: RGBD SLAM Backend Introduction
+subtitle: RGBD SLAM Backend Introduction
 comments: true
 ---
 

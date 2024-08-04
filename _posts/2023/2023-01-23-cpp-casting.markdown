@@ -2,7 +2,7 @@
 layout: post
 title: C++ - Casting 
 date: '2023-01-23 13:19'
-excerpt: Ever tried convincing your boss that your need for vacation is a 'const' by using const_cast? Welcome to C++ casting!
+subtitle: Ever tried convincing your boss that your need for vacation is a 'const' by using const_cast? Welcome to C++ casting!
 comments: true
 ---
 

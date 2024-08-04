@@ -2,7 +2,7 @@
 layout: post
 title: Bash Magic
 date: '2023-06-15 13:19'
-excerpt: Bash is great. Here is a list of bash tricks & knowledge points that I found magical
+subtitle: Bash is great. Here is a list of bash tricks & knowledge points that I found magical
 comments: true
 ---
 

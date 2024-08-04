@@ -2,7 +2,7 @@
 layout: post
 title: More On Motion Estimation 
 date: '2024-07-05 10:11'
-excerpt: 5 Point Algorithm, How to solve DLT, and 8 point algorithm
+subtitle: 5 Point Algorithm, How to solve DLT, and 8 point algorithm
 comments: true
 ---
 

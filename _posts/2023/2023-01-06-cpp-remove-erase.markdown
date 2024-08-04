@@ -2,7 +2,7 @@
 layout: post
 title: C++ - Erase Remove
 date: '2023-01-06 13:19'
-excerpt: An efficient in-place way to remove elements in a container
+subtitle: An efficient in-place way to remove elements in a container
 comments: true
 ---
 
@@ -120,4 +120,4 @@ int main()
 }
 ```
 
-In the above snippet, we measure the time it takes to remove elements above 1000 from an array `[0, 100000]`. It turns out that `std::copy_if` is 1.25x faster! Why? In this case, we are copying **much fewer elements** than the swapping `remove_if` has to do. So, if you have an application that **filters out a lot of elements**, it might be worth it to try the **copy_if** method. However, in general I would still stick to `erase-remove`, because it performs better in case there are **not many elements** to filter out. (I'm risk-averse)
+In the above snippet, we measure the time it takes to remove elements above 1000 from an array `[0, 100000]`. It turns out that `std::copy_if` is 1.25x faster! Why? In this case, we are copying **many fewer elements** than the swapping `remove_if` has to do. So, if you have an application that **filters out a lot of elements**, it might be worth it to try the **copy_if** method. However, in general I would still stick to `erase-remove`, because it performs better in case there are **not many elements** to filter out. (I'm risk-averse)

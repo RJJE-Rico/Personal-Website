@@ -2,7 +2,7 @@
 layout: post
 title: Math - Gram Schmidt Orthogonolization And QR Decomposition
 date: '2017-01-05 13:19'
-excerpt: Super useful in finding forming an orthogonal vector basis, e.g., Singular Value Decomposition
+subtitle: Super useful in finding forming an orthogonal vector basis, e.g., Singular Value Decomposition
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Linux - Udev Rules And Systemd Services
 date: '2018-01-07 13:19'
-excerpt: Udev Rules Systemd Services
+subtitle: Udev Rules Systemd Services
 comments: true
 ---
 
